@@ -1,4 +1,4 @@
 # Megam
 
 
-Vasanthamalar sample project doing for megam
+Vasanthamalar sample project doing for megam technology.
